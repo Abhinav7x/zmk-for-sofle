@@ -3,7 +3,7 @@
  *
  * SPDX-License-Identifier: MIT
  */
-
+// making the changes for hyper key 
 //
 //   Miryoku-style layout — QWERTY base, vim arrows (HJKL), GACS home row mods
 //   Adapted from the Corne config for Sofle (6x4 + thumbs + encoders, 60 keys)
