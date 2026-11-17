@@ -21,7 +21,6 @@ The SVG updates automatically on push via the [Draw Keymap](.github/workflows/dr
 | 3 | MEDIA | hold left ESC thumb    |
 | 4 | SYM   | hold inner-right RET   |
 | 5 | FUN   | hold right DEL thumb   |
-| 6 | MOUSE | hold left TAB thumb    |
 
 QWERTY base with **GACS home-row mods**, **vim arrows** (HJKL) on NAV, a top number row, and 14 combos (esc, tab, bspc, del, enter, copy/cut/paste, caps-word, and vertical symbol combos for `- _ = \` ;`).
 
@@ -65,4 +64,4 @@ make svg       # parse + render SVG
 - **Encoders:** 2x EC11 rotary
 - **Bluetooth:** 4 profiles
 - **ZMK Studio:** Enabled
-- **Mouse/Pointing:** Enabled
+- **Mouse/Pointing:** Disabled
